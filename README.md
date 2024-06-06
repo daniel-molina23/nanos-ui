@@ -18,4 +18,3 @@ To recover from an application error or just remove the UX, enter Recovery mode 
 make delete
 ``` 
 
-
